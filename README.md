@@ -30,4 +30,4 @@
 
 #### react native
 
-## Is there anything else you’d like your instructor to know?
+![picture alt](CitySuggesterComponentDiagram.png "City Suggester Component Diagram")
