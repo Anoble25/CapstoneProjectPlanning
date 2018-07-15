@@ -4,7 +4,7 @@
 ## Name of Student:
 #### Alex Noble
 ## Name of Project:
-#### City Suggester
+#### City Suggester (Repo at https://github.com/Anoble25/CitySuggester)
 
 ## Project’s Purpose or Goal: (What will it do for users?)
 #### It will give city recommendations for a user to visit or move to.
