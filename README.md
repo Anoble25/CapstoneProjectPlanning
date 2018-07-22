@@ -1,12 +1,15 @@
 Work in progress
 
+Decided to change to making a react native quiz app
+
+
 ## Project description
 #### A web application that recommends cities that a user might want to live in, based on user inputted preferences and city quality of life data. It will utilize a react front-end, with a google firebase database for account and preference management, and api calls to the Teleport API to populate the city quality of life data.
 
 ## Name of Student:
 #### Alex Noble
 ## Name of Project:
-#### City Suggester (Repo at https://github.com/Anoble25/CitySuggester)
+#### React Native Quiz App (Repo at https://github.com/Anoble25/CitySuggester)
 
 ## Project’s Purpose or Goal: (What will it do for users?)
 #### It will give city recommendations for a user to visit or move to.
