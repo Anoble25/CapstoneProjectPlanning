@@ -1,40 +1,36 @@
-# Quiz Robot - React Native Mobile App
-
-Work in progress
-
-Decided to change to making a react native quiz app
-
+# Study Robot - React Native Mobile App
 
 ## Project description
-#### A web application that recommends cities that a user might want to live in, based on user inputted preferences and city quality of life data. It will utilize a react front-end, with a google firebase database for account and preference management, and api calls to the Teleport API to populate the city quality of life data.
+#### A react native app for building custom quizzes 
 
 ## Name of Student:
 #### Alex Noble
 ## Name of Project:
-#### React Native Quiz App (Repo at https://github.com/Anoble25/CitySuggester)
+
+#### React Native Quiz App (Repo at https://github.com/Anoble25/quiz-robot-react-native.git)
 
 ## Project’s Purpose or Goal: (What will it do for users?)
-#### It will give city recommendations for a user to visit or move to.
+#### It will let the users test themselves on questions from a custom question bank.
 
 ## List the absolute minimum features the project requires to meet this purpose or goal:
-#### It will receive input from a user and use the input to make city suggestions.
+#### It must read questions from a database.
+#### It must save user input to the database.
+### It must show the number of answers a user gets correct
+## It must show the number of questions a user gets incorrect
 
 
 ## What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
 
-#### React
-#### React Native (if time allows)
+#### React Native 
 #### Firebase or MySql database for storing user preferences
-#### Teleport for developers api (https://developers.teleport.org/) for city info (cost of living, city happiness, etc)
+
 #### npm (for package/dependency management)
 
 ## If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
-#### A react native version of the website
 #### Better site usability
 #### Improved visual look
+#### I will allow the user to specify custom rules (repeat incorrect questions, rank question by difficulty)
+#### I will allow the user to load questions from a different file type and export banks.
 
-## What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
-
-#### react native
 
 ![picture alt](CitySuggesterComponentDiagram.png "City Suggester Component Diagram")
